@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-vercel-globe",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "latest"
+  },
+  "devDependencies": {
+    "tailwindcss": "latest",
+    "@tailwindcss/postcss": "latest",
+    "postcss": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

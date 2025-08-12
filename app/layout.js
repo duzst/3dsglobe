@@ -1,0 +1,1 @@
+export const metadata={title:"Interactive Dot Globe",description:"Three.js point-cloud globe with hover highlight and controls"};import "./globals.css";export default function RootLayout({children}){return(<html lang="en"><body>{children}</body></html>);}
